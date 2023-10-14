@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Happy Cat Cafe</title>
+    </head>
+    <body>
+        <nav>
+            <h1>Happy Cat Cafe</h1>
+            <ul>
+                <li>About Us</li>
+                <li>Menu</li>
+                <li>View Cats</li>
+                <li>Contact Us</li>
+            </ul> 
+        </nav>
+        <main>
+            <h2>About Us</h2>
+            <p>Welcome to the Happy Cat Cafe!</p>
+            <p>We rescue cats from shelters and make them available for adoption here.</p>
+            <p>Come join us for afternoon tea and meet some "fur-ends" - you might even take one home!</p>
+            <img src="cat.png" alt="Image of cat">
+        </main>
+        <footer>
+            <p>Email: happycatcafe@gmail.com</p>
+            <img src="twitter.png" alt="Visit our Twitter page">
+            <img src="insta.png" alt="Visit our Instagram page">
+        </footer>
+    </body>
+</html>
